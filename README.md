@@ -54,3 +54,4 @@ Or open the project in Android Studio and hit Run.
 - No preview thumbnails in the `.mtz`. Theme manager will show a blank tile.
 - The per-wallpaper detail activity is non-exported, so the Wallpaper FAB lands
   on the list — one more tap to pick a specific super wallpaper.
+1
